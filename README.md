@@ -67,6 +67,7 @@ Added some additional functionality to the application, such as the ability to d
 
 * View the total utilized budget of a department&mdash;in other words, the combined salaries of all employees in that department.
 
+## Screenshots 
 
 ### Technical Credit
 
@@ -77,7 +78,7 @@ Added some additional functionality to the application, such as the ability to d
     * Uses the [console.table package](https://www.npmjs.com/package/console.table) to print MySQL rows to the console.
 
 
-## Review
+## Review and Submission
 
 Submit BOTH of the following for review:
 
