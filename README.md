@@ -1,4 +1,4 @@
-# week12_employee_tracker
+# Week 12 Challenge - Employee Tracker
 
 ## Your Task
 
