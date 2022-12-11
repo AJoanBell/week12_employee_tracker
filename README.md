@@ -84,4 +84,6 @@ Submit BOTH of the following for review:
 
 * A walkthrough video demonstrating the functionality of the application: https://github.com/AJoanBell/week12_employee_tracker/blob/main/assets/video_walkthrough/employee_tracker_full_functionality.mp4
 
+* Video walkthrough on google drive here: https://drive.google.com/file/d/1Ub1exsyzuyTaCrKYZFoSQnMd-h7Sk-Wi/view?usp=sharing
+
 * The URL of the GitHub repository, with a unique name and a README describing the project: https://github.com/AJoanBell/week12_employee_tracker
