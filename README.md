@@ -69,6 +69,12 @@ Added some additional functionality to the application, such as the ability to d
 
 ## Screenshots 
 
+Screenshot of some functionality in terminal:
+
+<img width="2017" alt="functionality_screenshot" src="https://user-images.githubusercontent.com/36496885/206898233-d6f58243-72fb-4ae4-b2f7-49e662c16265.png">
+
+Link to screenshot: 
+
 ### Technical Credit
 
     * Uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).
