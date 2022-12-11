@@ -44,14 +44,14 @@ npm i
 ## Usage
 To use the application:
 
-Clone the repository to your desktop.
-Open the repository in your terminal or bash.
-Log into MySQL by entering mysql -u root -p in the command line, using ScreenQueen as the password.
-Create the database by entering SOURCE ./db/schema.sql;.
-(Optional) Seed the database with sample data by entering SOURCE ./db/seeds.sql;.
-Quit MySQL by entering quit.
-Start the application by entering node index.js.
-Use the application by answering the prompts.
+* Clone the repository to your desktop.
+* Open the repository in your terminal or bash.
+* Log into MySQL by entering mysql -u root -p in the command line, using ScreenQueen as the password.
+* Create the database by entering SOURCE ./db/schema.sql;.
+* (Optional) Seed the database with sample data by entering SOURCE ./db/seeds.sql;.
+* Quit MySQL by entering quit.
+* Start the application by entering node index.js.
+* Use the application by answering the prompts.
 
 ## Bonus
 
