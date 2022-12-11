@@ -82,6 +82,6 @@ Added some additional functionality to the application, such as the ability to d
 
 Submit BOTH of the following for review:
 
-* A walkthrough video demonstrating the functionality of the application.
+* A walkthrough video demonstrating the functionality of the application: https://github.com/AJoanBell/week12_employee_tracker/blob/main/assets/video_walkthrough/employee_tracker_full_functionality.mp4
 
 * The URL of the GitHub repository, with a unique name and a README describing the project: https://github.com/AJoanBell/week12_employee_tracker
