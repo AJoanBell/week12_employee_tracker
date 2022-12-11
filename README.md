@@ -65,7 +65,6 @@ Added some additional functionality to the application, such as the ability to d
 
 * Delete departments, roles, and employees.
 
-* View the total utilized budget of a department&mdash;in other words, the combined salaries of all employees in that department.
 
 ## Screenshots 
 
