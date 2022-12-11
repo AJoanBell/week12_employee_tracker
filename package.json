@@ -1,5 +1,5 @@
 {
-  "name": "week12_employee_tracker_test",
+  "name": "week12_employee_tracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AJoanBell/week12_employee_tracker_test.git"
+    "url": "git+https://github.com/AJoanBell/week12_employee_tracker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AJoanBell/week12_employee_tracker_test/issues"
+    "url": "https://github.com/AJoanBell/week12_employee_tracker/issues"
   },
-  "homepage": "https://github.com/AJoanBell/week12_employee_tracker_test#readme",
+  "homepage": "https://github.com/AJoanBell/week12_employee_tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
