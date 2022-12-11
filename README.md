@@ -73,7 +73,7 @@ Screenshot of some functionality in terminal:
 
 <img width="2017" alt="functionality_screenshot" src="https://user-images.githubusercontent.com/36496885/206898233-d6f58243-72fb-4ae4-b2f7-49e662c16265.png">
 
-Link to screenshot: 
+Link to screenshot: https://github.com/AJoanBell/week12_employee_tracker/blob/main/assets/images/functionality_screenshot.png
 
 ### Technical Credit
 
